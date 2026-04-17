@@ -1,0 +1,13 @@
+Objects/
+Listings/
+DebugConfig/
+Project.uvguix.*
+*.uvguix.*
+*.uvoptx
+*.bak
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+.omx/
+~$*.docx

@@ -30,6 +30,7 @@
 ## 二开文档
 
 - [详细二开说明](docs/SECONDARY_DEVELOPMENT_DETAILED.md)
+- [AI 对接方案（小智 AI / 网关 / STM32）](docs/AI_INTEGRATION_PLAN.md)
 
 ## 当前二开重点文件
 
